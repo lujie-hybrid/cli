@@ -1,0 +1,24 @@
+{
+  "name": "ljinitcli",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ljinitcli": "index.js"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "lj",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^5.0.0",
+    "cross-spawn": "^7.0.1",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.3.0",
+    "inquirer": "^7.1.0",
+    "ora": "^4.0.3",
+    "shelljs": "^0.8.3"
+  }
+}
